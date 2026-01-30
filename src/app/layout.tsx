@@ -13,21 +13,22 @@ const title = 'Ajit kumar | Full-Stack Web Developer in Chicago'
 const description =
   "Skilled full-stack web developer in Chicago. I build responsive, user-friendly websites with React, NextJS, and NodeJS. Let's bring your vision to life. Hire me today!"
 
-const url = process.env.NEXT_PUBLIC_SITE_URL
+const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'
 
 export const metadata: Metadata = {
   title,
   description,
   category: 'technology',
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL!),
+  metadataBase: new URL(siteUrl),
   alternates: {
-    canonical: url,
+    canonical: siteUrl,
   },
   openGraph: {
     title,
     description,
-    url,
-    siteName: 'John Doe Portfolio',
+    url: siteUrl,
+    siteName: 'Ajit Kumar Portfolio',
     type: 'website',
   },
   twitter: {
@@ -37,6 +38,10 @@ export const metadata: Metadata = {
     creator: '@Basit_Miyanji',
   },
 }
+
+
+
+
 
 export default function RootLayout({
   children,
