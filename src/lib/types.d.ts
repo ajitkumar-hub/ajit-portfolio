@@ -12,6 +12,7 @@ export interface Project {
   numberOfSales?: string
   type: string
   siteAge?: string
+  platform: 'Web' | 'iOS' | 'Android'
 }
 
 export interface Heading {

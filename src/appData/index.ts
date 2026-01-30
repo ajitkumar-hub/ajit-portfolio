@@ -125,10 +125,10 @@ export const skillList = [
     name: 'Express.js',
     icon: ExpressjsIcon,
   },
-  {
-    name: 'Nest.js',
-    icon: NestjsIcon,
-  },
+  // {
+  //   name: 'Nest.js',
+  //   icon: NestjsIcon,
+  // },
   {
     name: 'Socket.io',
     icon: SocketIcon,
@@ -172,4 +172,4 @@ export const themes = [
   },
 ]
 
-export const languages = ['En', 'Es', 'Fr', 'De', 'Ru']
+export const languages = ['English', 'Hindi', 'Magahi',]

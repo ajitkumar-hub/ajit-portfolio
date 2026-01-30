@@ -1,12 +1,15 @@
 {
   "priority": 4,
-  "title": "Ejucationzz",
-  "shortDescription": "Ejucationzz is a directory site I created for myself using Next.js. On Ejucationzz, you can find free and paid online and offline courses available in Pakistan. 14 academies and 12 main categories, each with subcategories, have been listed.",
-  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1598035107/pomodoro-clock_ctp2af.png",
-  "type": "New 🔥",
-  "livePreview": "https://example.com/Ejucationzz",
-  "siteAge": "4 months old",
+  "title": "Intellibooks",
+  "shortDescription": "Intellibooks is designed to simplify restaurant operations while maintaining speed, accuracy, and consistency. By bringing billing, order management, and daily workflows into one unified system, Intellibooks helps restaurants stay organized even during peak hours. Whether running a café, cloud kitchen, or multi-outlet brand, Intellibooks supports smoother coordination, fewer manual errors, and reliable performance—allowing teams to focus on service quality, customer satisfaction, and sustainable business growth.",
+  "cover": "/intellibook.png",
+  "type": "Old 🔥",
+  "livePreview": "https://rst.intellibooks.io/login",
+  "siteAge": "2 year",
   "visitors": "100 Visitors",
   "githubLink": "",
-  "earned": ""
+  "earned": "",
+  "platform": "Web"
+
+
 }

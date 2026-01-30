@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "title": "CEO",
-  "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien egestas fermentum eget auctor justo.",
+  "name": "Mahesh kumar",
+  "title": "Technical Mentor",
+  "feedback": "A scalable and well-designed marketplace for second-hand vehicles.”EXAUTOMOBI showcases strong product thinking with a focus on performance, security, and user experience. The architecture supports multiple user roles, real-time bidding, vehicle service tracking, and transaction workflows efficiently.The clean code structure, optimized data handling, and responsive UI make the platform reliable even under high user activity. This project reflects a deep understanding of marketplace-based application development",
   "image": "https://i.pravatar.cc/150?img=12",
   "stars": 5,
   "createdAt": "2025-01-01"

@@ -20,12 +20,12 @@ const ContactSection = () => {
           <a
             href="mailto:johndoe@gmail.com"
             className="text-neutral hover:text-accent flex items-center gap-1 font-light transition-colors duration-300">
-            <MsgIcon /> johndoe@gmail.com
+            <MsgIcon /> ajitkumar11276@gmail.com
           </a>
           <a
             href="tel:+92 3123456789"
             className="text-neutral hover:text-accent flex items-center gap-1 font-light transition-colors duration-300">
-            <PhoneIcon /> +92 3123456789
+            <PhoneIcon /> +91,6205251220
           </a>
         </div>
       </div>

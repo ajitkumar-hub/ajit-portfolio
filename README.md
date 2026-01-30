@@ -159,7 +159,7 @@ You can integrate analytics easily:
 
 Before deploying, add environment variables from .env.local wherever you are deploying:
 
-1. NEXT_PUBLIC_SITE_URL: Set to your actual site URL (e.g., https://johndoe.com).
+1. NEXT_PUBLIC_SITE_URL: Set to your actual site URL (e.g., https://ajitkumar.com).
 1. CONTACT_FORM_ACTION_URL: Your [formspree](https://formspree.io/) url.
 1. For local development, use the localhost URL.
 

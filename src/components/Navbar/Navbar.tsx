@@ -8,19 +8,23 @@ import Logo from './Logo'
 
 const navItems = [
   {
-    label: '_home',
+    label: 'Home',
     href: '/',
   },
   {
-    label: '_projects',
+    label: 'Projects',
     href: '/#projects',
   },
   {
-    label: '_services',
+    label: 'Services',
     href: '/#services',
   },
+    {
+    label: 'Blog',
+    href: '/#blogs',
+  },
   {
-    label: '_contact-me',
+    label: 'Contact-me',
     href: '/#contact',
   },
 ]
@@ -42,7 +46,7 @@ const Navbar = () => {
           <Link href="/">
             <div className="animate-fade-up text-primary-content relative flex items-center gap-3 transition-all duration-300 md:static">
               <Logo />
-              <span className="text-primary-content">john_doe</span>
+              <span className="text-primary-content">Ajit Kumar</span>
             </div>
           </Link>
         )}

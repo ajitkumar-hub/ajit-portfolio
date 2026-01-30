@@ -48,7 +48,7 @@ const Footer = () => {
             ))}
           </ul>
           <p className="text-tertiary-content flex flex-col self-end text-right text-xs md:text-center">
-            <span>© 2025 — Copyright</span>
+            <span>© 2026 — Copyright</span>
             <span>All Rights reserved</span>
           </p>
         </div>
@@ -60,20 +60,20 @@ const Footer = () => {
               <a
                 href="mailto:johndoe@gmail.com"
                 className="text-tertiary-content hover:text-neutral text-sm font-light transition-colors duration-300">
-                johndoe@gmail.com
+                ajitkumar11276@gmail.com
               </a>
               <a
-                href="tel:+92 3123456789"
+                href="tel:+91 6205251220"
                 className="text-tertiary-content hover:text-neutral text-sm font-light transition-colors duration-300">
-                +92 3123456789
+                +91 6205251220
               </a>
             </div>
             <div>
               <div>
                 <h5 className="text-neutral mb-4 text-lg font-medium">Location</h5>
                 <address className="text-tertiary-content flex flex-col text-sm font-light">
-                  <span>123456, Pakistan</span>
-                  <span>Karachi 22/5/8, Office 4</span>
+                  <span>Vishwakrma Colony Baragain</span>
+                  <span>Ranchi Jharkhand, 834009</span>
                 </address>
               </div>
             </div>

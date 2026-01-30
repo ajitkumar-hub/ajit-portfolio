@@ -1,9 +1,10 @@
 {
   "priority": 2,
-  "title": "Codevertiser",
-  "shortDescription": "A programming related article site to share my learnings",
-  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1656970810/Codevertiser_xlxdje.png",
-  "livePreview": "https://example.com/beta",
-  "visitors": "8K Visitors",
-  "earned": "$400 Earned"
+  "title": "Educational Bhaiya",
+  "shortDescription": "This app is designed to make learning simple, engaging, and effective for students of all levels. Whether you're preparing for school exams, competitive exams, or simply want to strengthen your knowledge base  this is your go-to educational companio",
+    "cover": "/educatbhaiya.png",
+  "livePreview": "https://play.google.com/store/apps/details?id=com.educational.edubhaiya&pcampaignid=web_share",
+  "visitors": "100k+ Download",
+  "earned": "1.77k reviews",
+   "platform": "Android"
 }
